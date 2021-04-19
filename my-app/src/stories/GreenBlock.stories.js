@@ -1,6 +1,6 @@
 import Vue from "vue";
 
-import GreenBlock from "my-module";
+import {GreenBlock} from "my-module";
 Vue.component("green-block", GreenBlock);
 
 export default {
