@@ -1,0 +1,8 @@
+{
+  "name": "storybook-problem",
+  "type": "module",
+  "workspaces": [
+    "my-module",
+    "my-app"
+  ]
+}

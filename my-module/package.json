@@ -1,0 +1,15 @@
+{
+  "name": "my-module",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src",
+  "scripts": {
+    "build": "echo 'my-module ok'",
+    "build-dev": "echo 'my-module ok'",
+    "storybook": "echo 'my-module ok'"
+  },
+  "dependencies": {
+    "vue": "2.6.12"
+  }
+}
+
