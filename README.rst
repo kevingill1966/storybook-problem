@@ -9,6 +9,13 @@ my-app contains a vue.js component called RedBlock.
 
 Both contains scss.
 
+Solution
+--------
+
+The solution was to remove this line::
+
+    include: path.resolve(__dirname, '../'),
+
 Setup
 -----
 
